@@ -3,5 +3,5 @@ open Lake DSL
 
 package inundation
 
-@[defaultTarget]
+@[default_target]
 lean_lib Inundation
